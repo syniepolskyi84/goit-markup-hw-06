@@ -900,7 +900,7 @@ a {
   }
 
   .nav-link.current {
-    position: relative;
+    position: relative; 
   }
 
   .nav-link.current::after {
